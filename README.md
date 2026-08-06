@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Bosque_valdiviano.jpg" width="80%" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
+
 
 # Luis Camilo González Rodríguez 
 ### Ingeniero en Conservación de Recursos Naturales
@@ -16,10 +16,7 @@
 - Modelos y análisis en Google Earth Engine orientados a recursos forestales y cambios de cobertura.
 - Consultoría técnica independiente en el área de conservación y geomática.
 
-<div align="center">
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Araucaria%20araucana%2C%20Conguill%C3%ADo%20National%20Park%2C%20Chile.jpg" width="48%" alt="Araucaria araucana, Parque Nacional Conguillío"/>
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landsat%208%20%28LDCM%29%20Satellite%20over%20Earth.jpg" width="48%" alt="Satélite Landsat 8 sobre la Tierra"/>
-</div>
+<img src="assets/Bosque_valdiviano.jpg" width="80%" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
 
 ---
 
