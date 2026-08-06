@@ -16,8 +16,9 @@
 - Modelos y análisis en Google Earth Engine orientados a recursos forestales y cambios de cobertura.
 - Consultoría técnica independiente en el área de conservación y geomática.
 
-<img src="assets/Bosque_valdiviano.jpg" width="80%" aling="center" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
-
+<div align="center">
+<img src="assets/Bosque_valdiviano.jpg" width="80%" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
+</div>
 ---
 
 ### Herramientas
