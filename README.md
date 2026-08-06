@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Bosque.jpg" width="48%" height="120" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
+<img src="assets/Bosque.jpg" width="48%" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
 
 # Luis Camilo González Rodríguez 
 ### Ingeniero en Conservación de Recursos Naturales
