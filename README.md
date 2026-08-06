@@ -2,10 +2,10 @@
 
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bosque%20valdiviano.jpg" width="100%" height="220" style="object-fit:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
 
-# Luis
+# Luis Camilo González Rodríguez 
 ### Ingeniero en Conservación de Recursos Naturales · Universidad Austral de Chile
 
-Trabajo con **análisis geoespacial aplicado al territorio**, principalmente en temas forestales y de recursos naturales. Uso Python, R y Google Earth Engine para procesar información satelital y construir herramientas que apoyen la toma de decisiones territoriales.
+**análisis geoespacial aplicado al territorio**, principalmente en temas forestales y de recursos naturales. Uso Python, R y Google Earth Engine para procesar información satelital y construir herramientas que apoyen la toma de decisiones territoriales.
 
 </div>
 
@@ -18,8 +18,6 @@ Trabajo con **análisis geoespacial aplicado al territorio**, principalmente en 
 - Modelos y análisis en Google Earth Engine orientados a recursos forestales y cambios de cobertura.
 - Consultoría técnica independiente en el área de conservación y geomática.
 
-No es un listado de todo lo que existe en el rubro — es lo que efectivamente hago y con lo que puedo aportar en un proyecto.
-
 <div align="center">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Araucaria%20araucana%2C%20Conguill%C3%ADo%20National%20Park%2C%20Chile.jpg" width="48%" alt="Araucaria araucana, Parque Nacional Conguillío"/>
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landsat%208%20%28LDCM%29%20Satellite%20over%20Earth.jpg" width="48%" alt="Satélite Landsat 8 sobre la Tierra"/>
@@ -27,7 +25,7 @@ No es un listado de todo lo que existe en el rubro — es lo que efectivamente h
 
 ---
 
-### Herramientas que uso
+### Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
