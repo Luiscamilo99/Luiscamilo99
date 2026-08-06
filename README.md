@@ -6,8 +6,6 @@
 
 <div align="center">
 
-
-
 # Luis Camilo González Rodríguez 
 ### Ingeniero en Conservación de Recursos Naturales
 
@@ -47,18 +45,11 @@
 | **[R](https://github.com/Luiscamilo99/R)** | Curso de introducción a la programación geoespacial en R. |
 | **[CONAF](https://github.com/Luiscamilo99/CONAF)** | Herramientas en Python para análisis de datos forestales. |
 
-<div align="center">
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Burn%20scars%20of%20the%20recent%20fires%20near%20Vi%C3%B1a%20del%20Mar%2C%20Chile%20-%205%20February%202024%20%2853513281628%29.jpg" width="100%" height="200" style="object-fit:cover;" alt="Cicatrices de incendios cerca de Viña del Mar vistas desde satélite"/>
-<sub>Imagen satelital de cicatrices de incendios forestales en Chile — el tipo de dato con el que trabajo habitualmente.</sub>
-</div>
 
 ---
 
-### Contacto
 
-Luiscamilogr@gmail.com
 
-Abierto a conversar sobre proyectos de análisis territorial, teledetección o herramientas geoespaciales.
 
 <sub>Imágenes: Wikimedia Commons (CC BY-SA) y NASA (dominio público).</sub>
 
