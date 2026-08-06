@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Luiscamilo99/Luiscamilo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bosque%20valdiviano.jpg" width="100%" height="220" style="object-fit:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
 
-Here are some ideas to get you started:
+# Luis
+### Ingeniero en Conservación de Recursos Naturales · Universidad Austral de Chile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo con **análisis geoespacial aplicado al territorio**, principalmente en temas forestales y de recursos naturales. Uso Python, R y Google Earth Engine para procesar información satelital y construir herramientas que apoyen la toma de decisiones territoriales.
+
+</div>
+
+---
+
+### Qué hago
+
+- Procesamiento y análisis de imágenes satelitales (Landsat, Sentinel, MODIS) para monitoreo territorial.
+- Desarrollo de scripts y herramientas geoespaciales en Python y R (automatización de flujos de trabajo, análisis espacial, generación de cartografía).
+- Modelos y análisis en Google Earth Engine orientados a recursos forestales y cambios de cobertura.
+- Consultoría técnica independiente en el área de conservación y geomática.
+
+No es un listado de todo lo que existe en el rubro — es lo que efectivamente hago y con lo que puedo aportar en un proyecto.
+
+<div align="center">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Araucaria%20araucana%2C%20Conguill%C3%ADo%20National%20Park%2C%20Chile.jpg" width="48%" alt="Araucaria araucana, Parque Nacional Conguillío"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landsat%208%20%28LDCM%29%20Satellite%20over%20Earth.jpg" width="48%" alt="Satélite Landsat 8 sobre la Tierra"/>
+</div>
+
+---
+
+### Herramientas que uso
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Proyectos
+
+| Repositorio | Descripción |
+|---|---|
+| **[R](https://github.com/Luiscamilo99/R)** | Curso de introducción a la programación geoespacial en R. |
+| **[CONAF](https://github.com/Luiscamilo99/CONAF)** | Herramientas en Python para análisis de datos forestales. |
+
+<div align="center">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Burn%20scars%20of%20the%20recent%20fires%20near%20Vi%C3%B1a%20del%20Mar%2C%20Chile%20-%205%20February%202024%20%2853513281628%29.jpg" width="100%" height="200" style="object-fit:cover;" alt="Cicatrices de incendios cerca de Viña del Mar vistas desde satélite"/>
+<sub>Imagen satelital de cicatrices de incendios forestales en Chile — el tipo de dato con el que trabajo habitualmente.</sub>
+</div>
+
+---
+
+### Contacto
+
+Abierto a conversar sobre proyectos de análisis territorial, teledetección o herramientas geoespaciales.
+
+<sub>Imágenes: Wikimedia Commons (CC BY-SA) y NASA (dominio público).</sub>
+
