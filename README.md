@@ -3,15 +3,13 @@
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bosque%20valdiviano.jpg" width="100%" height="220" style="object-fit:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
 
 # Luis Camilo González Rodríguez 
-### Ingeniero en Conservación de Recursos Naturales · Universidad Austral de Chile
+### Ingeniero en Conservación de Recursos Naturales
 
 **análisis geoespacial aplicado al territorio**, principalmente en temas forestales y de recursos naturales. Uso Python, R y Google Earth Engine para procesar información satelital y construir herramientas que apoyen la toma de decisiones territoriales.
 
 </div>
 
 ---
-
-### Qué hago
 
 - Procesamiento y análisis de imágenes satelitales (Landsat, Sentinel, MODIS) para monitoreo territorial.
 - Desarrollo de scripts y herramientas geoespaciales en Python y R (automatización de flujos de trabajo, análisis espacial, generación de cartografía).
