@@ -29,6 +29,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-1B1B1B?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
