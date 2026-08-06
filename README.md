@@ -23,6 +23,7 @@
        style="object-fit: cover;"
        alt="Bosque templado valdiviano, sur de Chile">
 </div>
+
 ---
 
 ### Herramientas
