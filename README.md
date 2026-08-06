@@ -17,7 +17,11 @@
 - Consultoría técnica independiente en el área de conservación y geomática.
 
 <div align="center">
-<img src="assets/Bosque_valdiviano.jpg" width="100%" style="object:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
+  <img src="assets/Bosque_valdiviano.jpg"
+       width="100%"
+       height="250"
+       style="object-fit: cover;"
+       alt="Bosque templado valdiviano, sur de Chile">
 </div>
 ---
 
