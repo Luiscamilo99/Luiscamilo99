@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bosque_araucania.jpg" width="100%" height="220" style="object-fit:cover;" alt="Parque Nacional Conguillio, Region de la Araucania, Chile."/>
+<img src="assets/bosque_araucania.jpg" width="100%" height="220" style="object-fit:cover;" alt="Bosque templado valdiviano, sur de Chile"/>
 
 # Luis Camilo González Rodríguez 
 ### Ingeniero en Conservación de Recursos Naturales
