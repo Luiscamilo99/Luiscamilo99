@@ -51,6 +51,8 @@
 
 ### Contacto
 
+Luiscamilogr@gmail.com
+
 Abierto a conversar sobre proyectos de análisis territorial, teledetección o herramientas geoespaciales.
 
 <sub>Imágenes: Wikimedia Commons (CC BY-SA) y NASA (dominio público).</sub>
